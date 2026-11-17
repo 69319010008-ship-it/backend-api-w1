@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/69319010008-ship-it/backend-api-w1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/69319010008-ship-it/backend-api-w1/issues"
+  },
+  "homepage": "https://github.com/69319010008-ship-it/backend-api-w1#readme"
 }
